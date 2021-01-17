@@ -1,0 +1,20 @@
+{
+  "conf_dev": {
+    "driver": "mysql",
+    "dbhost": "localhost",
+    "dbname": "DB_blog",
+    "dbuser": "root",
+    "dbpass": "linuxlinux",
+    "web": "/",
+    "root": "/"
+  },
+  "conf_pro": {
+    "driver": "mysql",
+    "dbhost": "bada.cesnuria.com",
+    "dbname": "bada_blog",
+    "dbuser": "",
+    "dbpass": "",
+    "web": "/M7/blogfw/",
+    "root": "/M7/blogfw/"
+  }
+}
